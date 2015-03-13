@@ -1,0 +1,204 @@
+An Application of Reinforcement Learning to Aerobatic Helicopter Flight###Abstract Missing
+Tighter PAC-Bayes Bounds###Abstract Missing
+Online Classification for Complex Problems Using Simultaneous Projections###Abstract Missing
+Learning on Graph with Laplacian Regularization###Abstract Missing
+Sparse Kernel Orthonormalized PLS for feature extraction in large data sets###Abstract Missing
+Multi-Task Feature Learning###Abstract Missing
+Logarithmic Online Regret Bounds for Undiscounted Reinforcement Learning###Abstract Missing
+Efficient Methods for Privacy Preserving Face Detection###Abstract Missing
+Active learning for misspecified generalized linear models###Abstract Missing
+Subordinate class recognition using relational object models###Abstract Missing
+Unified Inference for Variational Bayesian Linear Gaussian State-Space Models###Abstract Missing
+A Novel Gaussian Sum Smoother for Approximate Inference in Switching Linear Dynamical Systems###Abstract Missing
+Sample Complexity of Policy Search with Known Dynamics###Abstract Missing
+AdaBoost is Consistent###Abstract Missing
+A selective attention multi--chip system with dynamic synapses and spiking neurons###Abstract Missing
+Temporal and Cross-Subject Probabilistic Models for fMRI Prediction Tasks###Abstract Missing
+Convergence of Laplacian Eigenmaps###Abstract Missing
+Analysis of Representations for Domain Adaptation###Abstract Missing
+An Approach to Bounded Rationality###Abstract Missing
+Greedy Layer-Wise Training of Deep Networks###Abstract Missing
+Dirichlet-Enhanced Spam Filtering based on Biased Samples###Abstract Missing
+Detecting Humans via Their Pose###Abstract Missing
+Similarity by Composition###Abstract Missing
+Denoising and Dimension Reduction in Feature Space###Abstract Missing
+Learning to Rank with Nonsmooth Cost Functions###Abstract Missing
+Conditional mean field###Abstract Missing
+Sparse Multinomial Logistic Regression via Bayesian L1 Regularisation###Abstract Missing
+Branch and Bound for Semi-Supervised Support Vector Machines###Abstract Missing
+Automated Hierarchy Discovery for Planning in Partially Observable Environments###Abstract Missing
+Max-margin classification of incomplete data###Abstract Missing
+Modeling General and Specific Aspects of Documents with a Probabilistic Topic Model###Abstract Missing
+implicit Online Learning with Kernels###Abstract Missing
+Context dependent amplification of both rate and event-correlation in a VLSI network of spiking neurons###Abstract Missing
+Bayesian Ensemble Learning###Abstract Missing
+Implicit Surfaces with Globally Regularised and Compactly Supported Basis Functions###Abstract Missing
+Map-Reduce for Machine Learning on Multicore###Abstract Missing
+Relational Learning with Gaussian Processes###Abstract Missing
+Recursive Attribute Factoring###Abstract Missing
+On Transductive Regression###Abstract Missing
+Balanced Graph Matching###Abstract Missing
+Learning from Multiple Sources###Abstract Missing
+Kernels on Structured Objects Through Nested Histograms###Abstract Missing
+Differential Entropic Clustering of Multivariate Gaussians###Abstract Missing
+Support Vector Machines on a Budget###Abstract Missing
+A Theory of Retinal Population Coding###Abstract Missing
+Learning to Traverse Image Manifolds###Abstract Missing
+Using Combinatorial Optimization within Max-Product Belief Propagation###Abstract Missing
+Optimal Single-Class Classification Strategies###Abstract Missing
+A Small World Threshold for Economic Network Formation###Abstract Missing
+PG-means: learning the number of clusters in data###Abstract Missing
+Clustering Under Prior Knowledge with Application to Image Segmentation###Abstract Missing
+Multi-dynamic Bayesian Networks###Abstract Missing
+Image Retrieval and Classification Using Local Distance Functions###Abstract Missing
+Multiple Instance Learning for Computer Aided Diagnosis###Abstract Missing
+Distributed Inference in Dynamical Systems###Abstract Missing
+iLSTD: Eligibility Traces and Convergence Analysis###Abstract Missing
+A PAC-Bayes Risk Bound for General Loss Functions###Abstract Missing
+Bayesian Policy Gradient Algorithms###Abstract Missing
+Data Integration for Classification Problems Employing Gaussian Process Priors###Abstract Missing
+Approximate inference using planar graph decomposition###Abstract Missing
+Near-Uniform Sampling of Combinatorial Spaces Using XOR Constraints###Abstract Missing
+No-regret Algorithms for Online Convex Programs###Abstract Missing
+Large Margin Multi-channel Analog-to-Digital Conversion with Applications to Neural Prosthesis###Abstract Missing
+Approximate Correspondences in High Dimensions###Abstract Missing
+A Kernel Method for the Two-Sample-Problem###Abstract Missing
+Learning Nonparametric Models for Probabilistic Imitation###Abstract Missing
+Training Conditional Random Fields for Maximum Labelwise Accuracy###Abstract Missing
+Adaptive Spatial Filters with predefined Region of Interest for EEG based Brain-Computer-Interfaces###Abstract Missing
+Graph-Based Visual Saliency###Abstract Missing
+Stratification Learning: Detecting Mixed Density and Dimensionality in High Dimensional Point Clouds###Abstract Missing
+Manifold Denoising###Abstract Missing
+TrueSkill™: A Bayesian Skill Rating System###Abstract Missing
+Prediction on a Graph with a Perceptron###Abstract Missing
+Geometric entropy minimization (GEM) for anomaly detection and localization###Abstract Missing
+Single Channel Speech Separation Using Factorial Dynamics###Abstract Missing
+Correcting Sample Selection Bias by Unlabeled Data###Abstract Missing
+Sparse Representation for Signal Classification###Abstract Missing
+In-Network PCA and Anomaly Detection###Abstract Missing
+Learning Time-Intensity Profiles of Human Activity using Non-Parametric Bayesian Models###Abstract Missing
+Kernel Maximum Entropy Data Transformation and an Enhanced Spectral Clustering Algorithm###Abstract Missing
+Adaptor Grammars: A Framework for Specifying Compositional Nonparametric Bayesian Models###Abstract Missing
+A Humanlike Predictor of Facial Attractiveness###Abstract Missing
+Clustering appearance and shape by learning jigsaws###Abstract Missing
+A Kernel Subspace Method by Stochastic Realization for Learning Nonlinear Dynamical Systems###Abstract Missing
+An Efficient Method for Gradient-Based Adaptation of Hyperparameters in SVM Models###Abstract Missing
+Combining causal and similarity-based reasoning###Abstract Missing
+A Nonparametric Approach to Bottom-Up Visual Saliency###Abstract Missing
+Hierarchical Dirichlet Processes with Random Effects###Abstract Missing
+An Information Theoretic Framework for Eukaryotic Gradient Sensing###Abstract Missing
+Information Bottleneck Optimization and Independent Component Extraction with Spiking Neurons###Abstract Missing
+Predicting spike times from subthreshold dynamics of a neuron###Abstract Missing
+Gaussian and Wishart Hyperkernels###Abstract Missing
+Causal inference in sensorimotor integration###Abstract Missing
+Multiple timescales and uncertainty in motor adaptation###Abstract Missing
+Reducing Calibration Time For Brain-Computer Interfaces: A Clustering Approach###Abstract Missing
+Accelerated Variational Dirichlet Process Mixtures###Abstract Missing
+PAC-Bayes Bounds for the Risk of the Majority Vote and the Variance of the Gibbs Classifier###Abstract Missing
+Inducing Metric Violations in Human Similarity Judgements###Abstract Missing
+Modelling transcriptional regulation using Gaussian Processes###Abstract Missing
+Learning to Model Spatial Dependency: Semi-Supervised Discriminative Random Fields###Abstract Missing
+Efficient sparse coding algorithms###Abstract Missing
+A Bayesian Approach to Diffusion Models of Decision-Making and Response Time###Abstract Missing
+Efficient Structure Learning of Markov Networks using L_1-Regularization###Abstract Missing
+Aggregating Classification Accuracy across Time: Application to Single Trial EEG###Abstract Missing
+Uncertainty, phase and oscillatory hippocampal recall###Abstract Missing
+Blind Motion Deblurring Using Image Statistics###Abstract Missing
+Speakers optimize information density through syntactic reduction###Abstract Missing
+Real-time adaptive information-theoretic optimization of neurophysiology experiments###Abstract Missing
+Ordinal Regression by Extended Binary Classification###Abstract Missing
+Conditional Random Sampling: A Sketch-based Sampling Technique for Sparse Data###Abstract Missing
+Generalized Regularized Least-Squares Learning with Predefined Features in a Hilbert Space###Abstract Missing
+Learnability and the doubling dimension###Abstract Missing
+Emergence of conjunctive visual features by quadratic independent component analysis###Abstract Missing
+Bayesian Detection of Infrequent Differences in Sets of Time Series with Shared Structure###Abstract Missing
+Analysis of Contour Motions###Abstract Missing
+Attribute-efficient learning of decision lists and linear threshold functions under unconcentrated distributions###Abstract Missing
+Dynamic Foreground/Background Extraction from Images and Videos using Random Patches###Abstract Missing
+Effects of Stress and Genotype on Meta-parameter Dynamics in Reinforcement Learning###Abstract Missing
+Statistical Modeling of Images with Fields of Gaussian Scale Mixtures###Abstract Missing
+An EM Algorithm for Localizing Multiple Sound Sources in Reverberant Environments###Abstract Missing
+Isotonic Conditional Random Fields and Local Sentiment Flow###Abstract Missing
+Part-based Probabilistic Point Matching using Equivalence Constraints###Abstract Missing
+Modeling Dyadic Data with Binary Latent Factors###Abstract Missing
+Fast Discriminative Visual Codebooks using Randomized Clustering Forests###Abstract Missing
+Context Effects in Category Learning: An Investigation of Four Probabilistic Models###Abstract Missing
+Multi-Robot Negotiation: Approximating the Set of Subgame Perfect Equilibria in General-Sum Stochastic Games###Abstract Missing
+Non-rigid point set registration: Coherent Point Drift###Abstract Missing
+Fundamental Limitations of Spectral Clustering###Abstract Missing
+On the Relation Between Low Density Separation, Spectral Clustering and Graph Cuts###Abstract Missing
+A Nonparametric Bayesian Method for Inferring Features From Similarity Judgments###Abstract Missing
+Temporal dynamics of information content carried by neurons in the primary visual cortex###Abstract Missing
+Blind source separation for over-determined delayed mixtures###Abstract Missing
+The Neurodynamics of Belief Propagation on Binary Markov Random Fields###Abstract Missing
+Handling Advertisements of Unknown Quality in Search Advertising###Abstract Missing
+Bayesian Model Scoring in Markov Random Fields###Abstract Missing
+Game Theoretic Algorithms for Protein-DNA binding###Abstract Missing
+Bayesian Image Super-resolution, Continued###Abstract Missing
+Parameter Expanded Variational Bayesian Methods###Abstract Missing
+Inferring Network Structure from Co-Occurrences###Abstract Missing
+Unsupervised Regression with Applications to Nonlinear System Identification###Abstract Missing
+Stability of K-Means Clustering###Abstract Missing
+Learning to parse images of articulated bodies###Abstract Missing
+Efficient Learning of Sparse Representations with an Energy-Based Model###Abstract Missing
+Learning to be Bayesian without Supervision###Abstract Missing
+Boosting Structured Prediction for Imitation Learning###Abstract Missing
+Large Scale Hidden Semi-Markov SVMs###Abstract Missing
+Natural Actor-Critic for Road Traffic Optimisation###Abstract Missing
+Computation of Similarity Measures for Sequential Data using Generalized Suffix Trees###Abstract Missing
+Learning annotated hierarchies from relational data###Abstract Missing
+Shifting, One-Inclusion Mistake Bounds and Tight Multiclass Expected Risk Bounds###Abstract Missing
+Neurophysiological Evidence of Cooperative Mechanisms for Stereo Computation###Abstract Missing
+Robotic Grasping of Novel Objects###Abstract Missing
+Theory and Dynamics of Perceptual Bistability###Abstract Missing
+Fast Iterative Kernel PCA###Abstract Missing
+Cross-Validation Optimization for Large Scale Hierarchical Classification Kernel Methods###Abstract Missing
+Information Bottleneck for Non Co-Occurrence Data###Abstract Missing
+Large Margin Hidden Markov Models for Automatic Speech Recognition###Abstract Missing
+Nonlinear physically-based models for decoding motor-cortical population activity###Abstract Missing
+Convex Repeated Games and Fenchel Duality###Abstract Missing
+Recursive ICA###Abstract Missing
+Chained Boosting###Abstract Missing
+A recipe for optimizing a time-histogram###Abstract Missing
+Mutagenetic tree Fisher kernel improves prediction of HIV drug resistance from viral genotype###Abstract Missing
+Hidden Markov Dirichlet Process: Modeling Genetic Recombination in Open Ancestral Space###Abstract Missing
+Learning Dense 3D Correspondence###Abstract Missing
+An Oracle Inequality for Clipped Regularized Risk Minimizers###Abstract Missing
+Learning Structural Equation Models for fMRI###Abstract Missing
+Mixture Regression for Covariate Shift###Abstract Missing
+Modeling Human Motion Using Binary Latent Variables###Abstract Missing
+A Collapsed Variational Bayesian Inference Algorithm for Latent Dirichlet Allocation###Abstract Missing
+Towards a general independent subspace analysis###Abstract Missing
+Linearly-solvable Markov decision problems###Abstract Missing
+Logistic Regression for Single Trial EEG Classification###Abstract Missing
+Large Margin Component Analysis###Abstract Missing
+Learning Motion Style Synthesis from Perceptual Observations###Abstract Missing
+Large-Scale Sparsified Manifold Regularization###Abstract Missing
+Scalable Discriminative Learning for Natural Language Parsing and Translation###Abstract Missing
+Generalized Maximum Margin Clustering and Unsupervised Kernel Learning###Abstract Missing
+A Complexity-Distortion Approach to Joint Pattern Alignment###Abstract Missing
+Online Clustering of Moving Hyperplanes###Abstract Missing
+Comparative Gene Prediction using Conditional Random Fields###Abstract Missing
+Fast Computation of Graph Kernels###Abstract Missing
+Temporal Coding using the Response Properties of Spiking Neurons###Abstract Missing
+High-Dimensional Graphical Model Selection Using \ell_1-Regularized Logistic Regression###Abstract Missing
+Attentional Processing on a Spike-Based VLSI Neural Network###Abstract Missing
+Randomized PCA Algorithms with Regret Bounds that are Logarithmic in the Dimension###Abstract Missing
+Graph Laplacian Regularization for Large-Scale Semidefinite Programming###Abstract Missing
+A Switched Gaussian Process for Estimating Disparity and Segmentation in Binocular Stereo###Abstract Missing
+Analysis of Empirical Bayesian Methods for Neuroelectromagnetic Source Localization###Abstract Missing
+Particle Filtering for Nonparametric Bayesian Matrix Factorization###Abstract Missing
+A Scalable Machine Learning Approach to Go###Abstract Missing
+A Local Learning Approach for Clustering###Abstract Missing
+The Robustness-Performance Tradeoff in Markov Decision Processes###Abstract Missing
+Optimal Change-Detection and Spiking Neurons###Abstract Missing
+Stochastic Relational Models for Discriminative Link Prediction###Abstract Missing
+Nonnegative Sparse PCA###Abstract Missing
+Doubly Stochastic Normalization for Spectral Clustering###Abstract Missing
+Simplifying Mixture Models through Function Approximation###Abstract Missing
+Hyperparameter Learning for Graph Based Semi-supervised Learning Algorithms###Abstract Missing
+MLLE: Modified Locally Linear Embedding Using Multiple Weights###Abstract Missing
+Learning with Hypergraphs: Clustering, Classification, and Embedding###Abstract Missing
+Multi-Instance Multi-Label Learning with Application to Scene Classification###Abstract Missing
+Unsupervised Learning of a Probabilistic Grammar for Object Detection and Parsing###Abstract Missing
+A Probabilistic Algorithm Integrating Source Localization and Noise Suppression of MEG and EEG data###Abstract Missing
